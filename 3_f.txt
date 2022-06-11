@@ -1,0 +1,48 @@
+This dataset has 6 features, with 500 instances
+Running nearest neighbor with all 6 features, accuracy of 78.4%
+
+		Features Considered : [1] with accuracy 65.8%
+		Features Considered : [2] with accuracy 72.6%
+		Features Considered : [3] with accuracy 81.8%
+		Features Considered : [4] with accuracy 70.39999999999999%
+		Features Considered : [5] with accuracy 66.8%
+		Features Considered : [6] with accuracy 68.0%
+
+Feature set [3] was best, with accuracy 81.8
+
+		Features Considered : [3, 1] with accuracy 85.0%
+		Features Considered : [3, 2] with accuracy 95.0%
+		Features Considered : [3, 4] with accuracy 80.2%
+		Features Considered : [3, 5] with accuracy 79.4%
+		Features Considered : [3, 6] with accuracy 82.19999999999999%
+
+Feature set [3, 2] was best, with accuracy 95.0
+
+		Features Considered : [3, 2, 1] with accuracy 90.0%
+		Features Considered : [3, 2, 4] with accuracy 89.60000000000001%
+		Features Considered : [3, 2, 5] with accuracy 86.8%
+		Features Considered : [3, 2, 6] with accuracy 90.8%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 2, 6] was best, with accuracy 90.8
+
+		Features Considered : [3, 2, 6, 1] with accuracy 88.2%
+		Features Considered : [3, 2, 6, 4] with accuracy 86.2%
+		Features Considered : [3, 2, 6, 5] with accuracy 87.4%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 2, 6, 1] was best, with accuracy 88.2
+
+		Features Considered : [3, 2, 6, 1, 4] with accuracy 82.8%
+		Features Considered : [3, 2, 6, 1, 5] with accuracy 84.6%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 2, 6, 1, 5] was best, with accuracy 84.6
+
+		Features Considered : [3, 2, 6, 1, 5, 4] with accuracy 78.4%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 2, 6, 1, 5, 4] was best, with accuracy 78.4
+
+Finished search!! The best feature subset is [3, 2], which has an accuracy of 95.0
+Time to finish: 13.343317031860352

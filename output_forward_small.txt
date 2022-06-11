@@ -1,0 +1,101 @@
+This dataset has 10 features (not including the class attribute), with 300 instances
+
+Running nearest neighbor with all 10 features, using "leaving-one-out" evalutation, I get an accuracy of 75.33333333333333%
+
+Beginning search
+
+		Features Considered : [1] with accuracy 64.0%
+		Features Considered : [2] with accuracy 76.0%
+		Features Considered : [3] with accuracy 84.66666666666667%
+		Features Considered : [4] with accuracy 59.0%
+		Features Considered : [5] with accuracy 67.33333333333333%
+		Features Considered : [6] with accuracy 65.66666666666666%
+		Features Considered : [7] with accuracy 67.66666666666666%
+		Features Considered : [8] with accuracy 64.66666666666666%
+		Features Considered : [9] with accuracy 68.0%
+		Features Considered : [10] with accuracy 68.0%
+
+Feature set [3] was best, with accuracy 84.66666666666667
+
+		Features Considered : [3, 1] with accuracy 80.33333333333333%
+		Features Considered : [3, 2] with accuracy 85.0%
+		Features Considered : [3, 4] with accuracy 81.33333333333333%
+		Features Considered : [3, 5] with accuracy 85.0%
+		Features Considered : [3, 6] with accuracy 84.0%
+		Features Considered : [3, 7] with accuracy 81.66666666666667%
+		Features Considered : [3, 8] with accuracy 86.33333333333333%
+		Features Considered : [3, 9] with accuracy 83.66666666666667%
+		Features Considered : [3, 10] with accuracy 95.0%
+
+Feature set [3, 10] was best, with accuracy 95.0
+
+		Features Considered : [3, 10, 1] with accuracy 89.66666666666666%
+		Features Considered : [3, 10, 2] with accuracy 89.66666666666666%
+		Features Considered : [3, 10, 4] with accuracy 90.33333333333333%
+		Features Considered : [3, 10, 5] with accuracy 91.0%
+		Features Considered : [3, 10, 6] with accuracy 87.66666666666667%
+		Features Considered : [3, 10, 7] with accuracy 91.33333333333333%
+		Features Considered : [3, 10, 8] with accuracy 91.0%
+		Features Considered : [3, 10, 9] with accuracy 89.33333333333333%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7] was best, with accuracy 91.33333333333333
+
+		Features Considered : [3, 10, 7, 1] with accuracy 85.33333333333334%
+		Features Considered : [3, 10, 7, 2] with accuracy 87.0%
+		Features Considered : [3, 10, 7, 4] with accuracy 86.66666666666667%
+		Features Considered : [3, 10, 7, 5] with accuracy 88.33333333333333%
+		Features Considered : [3, 10, 7, 6] with accuracy 82.33333333333334%
+		Features Considered : [3, 10, 7, 8] with accuracy 86.33333333333333%
+		Features Considered : [3, 10, 7, 9] with accuracy 85.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5] was best, with accuracy 88.33333333333333
+
+		Features Considered : [3, 10, 7, 5, 1] with accuracy 81.33333333333333%
+		Features Considered : [3, 10, 7, 5, 2] with accuracy 85.0%
+		Features Considered : [3, 10, 7, 5, 4] with accuracy 84.66666666666667%
+		Features Considered : [3, 10, 7, 5, 6] with accuracy 81.66666666666667%
+		Features Considered : [3, 10, 7, 5, 8] with accuracy 85.0%
+		Features Considered : [3, 10, 7, 5, 9] with accuracy 84.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5, 2] was best, with accuracy 85.0
+
+		Features Considered : [3, 10, 7, 5, 2, 1] with accuracy 81.0%
+		Features Considered : [3, 10, 7, 5, 2, 4] with accuracy 79.33333333333333%
+		Features Considered : [3, 10, 7, 5, 2, 6] with accuracy 77.0%
+		Features Considered : [3, 10, 7, 5, 2, 8] with accuracy 80.66666666666666%
+		Features Considered : [3, 10, 7, 5, 2, 9] with accuracy 83.66666666666667%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5, 2, 9] was best, with accuracy 83.66666666666667
+
+		Features Considered : [3, 10, 7, 5, 2, 9, 1] with accuracy 77.0%
+		Features Considered : [3, 10, 7, 5, 2, 9, 4] with accuracy 79.0%
+		Features Considered : [3, 10, 7, 5, 2, 9, 6] with accuracy 78.0%
+		Features Considered : [3, 10, 7, 5, 2, 9, 8] with accuracy 74.33333333333333%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5, 2, 9, 4] was best, with accuracy 79.0
+
+		Features Considered : [3, 10, 7, 5, 2, 9, 4, 1] with accuracy 73.66666666666667%
+		Features Considered : [3, 10, 7, 5, 2, 9, 4, 6] with accuracy 75.33333333333333%
+		Features Considered : [3, 10, 7, 5, 2, 9, 4, 8] with accuracy 74.33333333333333%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5, 2, 9, 4, 6] was best, with accuracy 75.33333333333333
+
+		Features Considered : [3, 10, 7, 5, 2, 9, 4, 6, 1] with accuracy 74.0%
+		Features Considered : [3, 10, 7, 5, 2, 9, 4, 6, 8] with accuracy 75.33333333333333%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5, 2, 9, 4, 6, 8] was best, with accuracy 75.33333333333333
+
+		Features Considered : [3, 10, 7, 5, 2, 9, 4, 6, 8, 1] with accuracy 75.33333333333333%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [3, 10, 7, 5, 2, 9, 4, 6, 8, 1] was best, with accuracy 75.33333333333333
+
+Finished search!! The best feature subset is [3, 10], which has an accuracy of 95.0
+Time to finish: 14.840561866760254

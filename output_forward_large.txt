@@ -1,0 +1,983 @@
+This dataset has 40 features, with 1000 instances
+Running nearest neighbor with all 40 features, accuracy of 65.8%
+
+		Features Considered : [1] with accuracy 68.2%
+		Features Considered : [2] with accuracy 69.1%
+		Features Considered : [3] with accuracy 68.4%
+		Features Considered : [4] with accuracy 68.30000000000001%
+		Features Considered : [5] with accuracy 67.60000000000001%
+		Features Considered : [6] with accuracy 70.39999999999999%
+		Features Considered : [7] with accuracy 67.10000000000001%
+		Features Considered : [8] with accuracy 66.5%
+		Features Considered : [9] with accuracy 67.4%
+		Features Considered : [10] with accuracy 68.89999999999999%
+		Features Considered : [11] with accuracy 66.9%
+		Features Considered : [12] with accuracy 67.4%
+		Features Considered : [13] with accuracy 67.5%
+		Features Considered : [14] with accuracy 68.0%
+		Features Considered : [15] with accuracy 69.19999999999999%
+		Features Considered : [16] with accuracy 65.3%
+		Features Considered : [17] with accuracy 66.5%
+		Features Considered : [18] with accuracy 69.69999999999999%
+		Features Considered : [19] with accuracy 67.2%
+		Features Considered : [20] with accuracy 69.8%
+		Features Considered : [21] with accuracy 69.0%
+		Features Considered : [22] with accuracy 68.89999999999999%
+		Features Considered : [23] with accuracy 68.5%
+		Features Considered : [24] with accuracy 65.9%
+		Features Considered : [25] with accuracy 66.8%
+		Features Considered : [26] with accuracy 67.30000000000001%
+		Features Considered : [27] with accuracy 67.7%
+		Features Considered : [28] with accuracy 69.0%
+		Features Considered : [29] with accuracy 67.10000000000001%
+		Features Considered : [30] with accuracy 68.2%
+		Features Considered : [31] with accuracy 68.89999999999999%
+		Features Considered : [32] with accuracy 67.2%
+		Features Considered : [33] with accuracy 84.3%
+		Features Considered : [34] with accuracy 69.5%
+		Features Considered : [35] with accuracy 73.1%
+		Features Considered : [36] with accuracy 68.10000000000001%
+		Features Considered : [37] with accuracy 68.30000000000001%
+		Features Considered : [38] with accuracy 67.5%
+		Features Considered : [39] with accuracy 68.30000000000001%
+		Features Considered : [40] with accuracy 66.4%
+
+Feature set [33] was best, with accuracy 84.3
+
+		Features Considered : [33, 1] with accuracy 82.39999999999999%
+		Features Considered : [33, 2] with accuracy 83.8%
+		Features Considered : [33, 3] with accuracy 84.5%
+		Features Considered : [33, 4] with accuracy 86.3%
+		Features Considered : [33, 5] with accuracy 82.3%
+		Features Considered : [33, 6] with accuracy 86.1%
+		Features Considered : [33, 7] with accuracy 83.8%
+		Features Considered : [33, 8] with accuracy 83.1%
+		Features Considered : [33, 9] with accuracy 84.2%
+		Features Considered : [33, 10] with accuracy 84.6%
+		Features Considered : [33, 11] with accuracy 82.39999999999999%
+		Features Considered : [33, 12] with accuracy 83.2%
+		Features Considered : [33, 13] with accuracy 82.1%
+		Features Considered : [33, 14] with accuracy 83.3%
+		Features Considered : [33, 15] with accuracy 85.0%
+		Features Considered : [33, 16] with accuracy 84.0%
+		Features Considered : [33, 17] with accuracy 83.1%
+		Features Considered : [33, 18] with accuracy 82.3%
+		Features Considered : [33, 19] with accuracy 84.1%
+		Features Considered : [33, 20] with accuracy 83.2%
+		Features Considered : [33, 21] with accuracy 83.8%
+		Features Considered : [33, 22] with accuracy 83.3%
+		Features Considered : [33, 23] with accuracy 83.8%
+		Features Considered : [33, 24] with accuracy 85.8%
+		Features Considered : [33, 25] with accuracy 84.0%
+		Features Considered : [33, 26] with accuracy 83.39999999999999%
+		Features Considered : [33, 27] with accuracy 84.89999999999999%
+		Features Considered : [33, 28] with accuracy 85.1%
+		Features Considered : [33, 29] with accuracy 84.2%
+		Features Considered : [33, 30] with accuracy 83.8%
+		Features Considered : [33, 31] with accuracy 83.0%
+		Features Considered : [33, 32] with accuracy 84.39999999999999%
+		Features Considered : [33, 34] with accuracy 82.8%
+		Features Considered : [33, 35] with accuracy 97.2%
+		Features Considered : [33, 36] with accuracy 83.3%
+		Features Considered : [33, 37] with accuracy 83.39999999999999%
+		Features Considered : [33, 38] with accuracy 83.0%
+		Features Considered : [33, 39] with accuracy 83.0%
+		Features Considered : [33, 40] with accuracy 84.89999999999999%
+
+Feature set [33, 35] was best, with accuracy 97.2
+
+		Features Considered : [33, 35, 1] with accuracy 94.39999999999999%
+		Features Considered : [33, 35, 2] with accuracy 92.7%
+		Features Considered : [33, 35, 3] with accuracy 93.10000000000001%
+		Features Considered : [33, 35, 4] with accuracy 94.69999999999999%
+		Features Considered : [33, 35, 5] with accuracy 93.89999999999999%
+		Features Considered : [33, 35, 6] with accuracy 93.7%
+		Features Considered : [33, 35, 7] with accuracy 94.0%
+		Features Considered : [33, 35, 8] with accuracy 92.7%
+		Features Considered : [33, 35, 9] with accuracy 93.7%
+		Features Considered : [33, 35, 10] with accuracy 94.19999999999999%
+		Features Considered : [33, 35, 11] with accuracy 93.2%
+		Features Considered : [33, 35, 12] with accuracy 93.30000000000001%
+		Features Considered : [33, 35, 13] with accuracy 92.30000000000001%
+		Features Considered : [33, 35, 14] with accuracy 94.1%
+		Features Considered : [33, 35, 15] with accuracy 93.10000000000001%
+		Features Considered : [33, 35, 16] with accuracy 92.9%
+		Features Considered : [33, 35, 17] with accuracy 94.1%
+		Features Considered : [33, 35, 18] with accuracy 94.0%
+		Features Considered : [33, 35, 19] with accuracy 94.19999999999999%
+		Features Considered : [33, 35, 20] with accuracy 93.10000000000001%
+		Features Considered : [33, 35, 21] with accuracy 93.4%
+		Features Considered : [33, 35, 22] with accuracy 93.4%
+		Features Considered : [33, 35, 23] with accuracy 93.30000000000001%
+		Features Considered : [33, 35, 24] with accuracy 94.19999999999999%
+		Features Considered : [33, 35, 25] with accuracy 93.4%
+		Features Considered : [33, 35, 26] with accuracy 93.60000000000001%
+		Features Considered : [33, 35, 27] with accuracy 92.60000000000001%
+		Features Considered : [33, 35, 28] with accuracy 92.9%
+		Features Considered : [33, 35, 29] with accuracy 92.60000000000001%
+		Features Considered : [33, 35, 30] with accuracy 94.69999999999999%
+		Features Considered : [33, 35, 31] with accuracy 92.10000000000001%
+		Features Considered : [33, 35, 32] with accuracy 93.2%
+		Features Considered : [33, 35, 34] with accuracy 93.60000000000001%
+		Features Considered : [33, 35, 36] with accuracy 94.1%
+		Features Considered : [33, 35, 37] with accuracy 93.4%
+		Features Considered : [33, 35, 38] with accuracy 94.0%
+		Features Considered : [33, 35, 39] with accuracy 94.19999999999999%
+		Features Considered : [33, 35, 40] with accuracy 93.89999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4] was best, with accuracy 94.69999999999999
+
+		Features Considered : [33, 35, 4, 1] with accuracy 91.3%
+		Features Considered : [33, 35, 4, 2] with accuracy 91.0%
+		Features Considered : [33, 35, 4, 3] with accuracy 90.2%
+		Features Considered : [33, 35, 4, 5] with accuracy 90.60000000000001%
+		Features Considered : [33, 35, 4, 6] with accuracy 91.10000000000001%
+		Features Considered : [33, 35, 4, 7] with accuracy 90.2%
+		Features Considered : [33, 35, 4, 8] with accuracy 89.4%
+		Features Considered : [33, 35, 4, 9] with accuracy 89.9%
+		Features Considered : [33, 35, 4, 10] with accuracy 90.0%
+		Features Considered : [33, 35, 4, 11] with accuracy 89.3%
+		Features Considered : [33, 35, 4, 12] with accuracy 89.5%
+		Features Considered : [33, 35, 4, 13] with accuracy 88.0%
+		Features Considered : [33, 35, 4, 14] with accuracy 90.7%
+		Features Considered : [33, 35, 4, 15] with accuracy 89.9%
+		Features Considered : [33, 35, 4, 16] with accuracy 89.1%
+		Features Considered : [33, 35, 4, 17] with accuracy 90.4%
+		Features Considered : [33, 35, 4, 18] with accuracy 89.5%
+		Features Considered : [33, 35, 4, 19] with accuracy 90.2%
+		Features Considered : [33, 35, 4, 20] with accuracy 90.10000000000001%
+		Features Considered : [33, 35, 4, 21] with accuracy 89.0%
+		Features Considered : [33, 35, 4, 22] with accuracy 89.9%
+		Features Considered : [33, 35, 4, 23] with accuracy 88.5%
+		Features Considered : [33, 35, 4, 24] with accuracy 91.3%
+		Features Considered : [33, 35, 4, 25] with accuracy 89.5%
+		Features Considered : [33, 35, 4, 26] with accuracy 88.9%
+		Features Considered : [33, 35, 4, 27] with accuracy 89.3%
+		Features Considered : [33, 35, 4, 28] with accuracy 89.2%
+		Features Considered : [33, 35, 4, 29] with accuracy 91.0%
+		Features Considered : [33, 35, 4, 30] with accuracy 88.2%
+		Features Considered : [33, 35, 4, 31] with accuracy 91.0%
+		Features Considered : [33, 35, 4, 32] with accuracy 89.2%
+		Features Considered : [33, 35, 4, 34] with accuracy 91.8%
+		Features Considered : [33, 35, 4, 36] with accuracy 89.7%
+		Features Considered : [33, 35, 4, 37] with accuracy 89.8%
+		Features Considered : [33, 35, 4, 38] with accuracy 89.8%
+		Features Considered : [33, 35, 4, 39] with accuracy 89.7%
+		Features Considered : [33, 35, 4, 40] with accuracy 89.4%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34] was best, with accuracy 91.8
+
+		Features Considered : [33, 35, 4, 34, 1] with accuracy 87.1%
+		Features Considered : [33, 35, 4, 34, 2] with accuracy 89.1%
+		Features Considered : [33, 35, 4, 34, 3] with accuracy 88.8%
+		Features Considered : [33, 35, 4, 34, 5] with accuracy 88.8%
+		Features Considered : [33, 35, 4, 34, 6] with accuracy 87.3%
+		Features Considered : [33, 35, 4, 34, 7] with accuracy 86.2%
+		Features Considered : [33, 35, 4, 34, 8] with accuracy 85.1%
+		Features Considered : [33, 35, 4, 34, 9] with accuracy 86.6%
+		Features Considered : [33, 35, 4, 34, 10] with accuracy 87.9%
+		Features Considered : [33, 35, 4, 34, 11] with accuracy 88.0%
+		Features Considered : [33, 35, 4, 34, 12] with accuracy 87.5%
+		Features Considered : [33, 35, 4, 34, 13] with accuracy 86.0%
+		Features Considered : [33, 35, 4, 34, 14] with accuracy 88.3%
+		Features Considered : [33, 35, 4, 34, 15] with accuracy 86.9%
+		Features Considered : [33, 35, 4, 34, 16] with accuracy 88.7%
+		Features Considered : [33, 35, 4, 34, 17] with accuracy 87.0%
+		Features Considered : [33, 35, 4, 34, 18] with accuracy 86.4%
+		Features Considered : [33, 35, 4, 34, 19] with accuracy 88.9%
+		Features Considered : [33, 35, 4, 34, 20] with accuracy 86.9%
+		Features Considered : [33, 35, 4, 34, 21] with accuracy 88.3%
+		Features Considered : [33, 35, 4, 34, 22] with accuracy 87.9%
+		Features Considered : [33, 35, 4, 34, 23] with accuracy 87.7%
+		Features Considered : [33, 35, 4, 34, 24] with accuracy 87.9%
+		Features Considered : [33, 35, 4, 34, 25] with accuracy 86.3%
+		Features Considered : [33, 35, 4, 34, 26] with accuracy 88.4%
+		Features Considered : [33, 35, 4, 34, 27] with accuracy 88.2%
+		Features Considered : [33, 35, 4, 34, 28] with accuracy 85.8%
+		Features Considered : [33, 35, 4, 34, 29] with accuracy 86.9%
+		Features Considered : [33, 35, 4, 34, 30] with accuracy 87.4%
+		Features Considered : [33, 35, 4, 34, 31] with accuracy 89.1%
+		Features Considered : [33, 35, 4, 34, 32] with accuracy 86.5%
+		Features Considered : [33, 35, 4, 34, 36] with accuracy 88.0%
+		Features Considered : [33, 35, 4, 34, 37] with accuracy 88.2%
+		Features Considered : [33, 35, 4, 34, 38] with accuracy 86.2%
+		Features Considered : [33, 35, 4, 34, 39] with accuracy 86.2%
+		Features Considered : [33, 35, 4, 34, 40] with accuracy 86.4%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2] was best, with accuracy 89.1
+
+		Features Considered : [33, 35, 4, 34, 2, 1] with accuracy 84.6%
+		Features Considered : [33, 35, 4, 34, 2, 3] with accuracy 86.7%
+		Features Considered : [33, 35, 4, 34, 2, 5] with accuracy 85.6%
+		Features Considered : [33, 35, 4, 34, 2, 6] with accuracy 85.5%
+		Features Considered : [33, 35, 4, 34, 2, 7] with accuracy 83.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 8] with accuracy 84.1%
+		Features Considered : [33, 35, 4, 34, 2, 9] with accuracy 85.3%
+		Features Considered : [33, 35, 4, 34, 2, 10] with accuracy 84.0%
+		Features Considered : [33, 35, 4, 34, 2, 11] with accuracy 85.3%
+		Features Considered : [33, 35, 4, 34, 2, 12] with accuracy 83.1%
+		Features Considered : [33, 35, 4, 34, 2, 13] with accuracy 86.6%
+		Features Considered : [33, 35, 4, 34, 2, 14] with accuracy 87.1%
+		Features Considered : [33, 35, 4, 34, 2, 15] with accuracy 85.6%
+		Features Considered : [33, 35, 4, 34, 2, 16] with accuracy 86.8%
+		Features Considered : [33, 35, 4, 34, 2, 17] with accuracy 84.3%
+		Features Considered : [33, 35, 4, 34, 2, 18] with accuracy 84.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 19] with accuracy 85.1%
+		Features Considered : [33, 35, 4, 34, 2, 20] with accuracy 84.2%
+		Features Considered : [33, 35, 4, 34, 2, 21] with accuracy 84.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 22] with accuracy 86.1%
+		Features Considered : [33, 35, 4, 34, 2, 23] with accuracy 85.2%
+		Features Considered : [33, 35, 4, 34, 2, 24] with accuracy 86.3%
+		Features Considered : [33, 35, 4, 34, 2, 25] with accuracy 84.3%
+		Features Considered : [33, 35, 4, 34, 2, 26] with accuracy 83.8%
+		Features Considered : [33, 35, 4, 34, 2, 27] with accuracy 84.5%
+		Features Considered : [33, 35, 4, 34, 2, 28] with accuracy 83.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 29] with accuracy 83.7%
+		Features Considered : [33, 35, 4, 34, 2, 30] with accuracy 84.6%
+		Features Considered : [33, 35, 4, 34, 2, 31] with accuracy 85.6%
+		Features Considered : [33, 35, 4, 34, 2, 32] with accuracy 85.2%
+		Features Considered : [33, 35, 4, 34, 2, 36] with accuracy 84.2%
+		Features Considered : [33, 35, 4, 34, 2, 37] with accuracy 85.9%
+		Features Considered : [33, 35, 4, 34, 2, 38] with accuracy 84.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 39] with accuracy 85.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 40] with accuracy 86.2%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14] was best, with accuracy 87.1
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 1] with accuracy 83.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 3] with accuracy 83.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 5] with accuracy 83.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 6] with accuracy 83.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 7] with accuracy 83.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 8] with accuracy 82.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 9] with accuracy 81.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10] with accuracy 85.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 11] with accuracy 82.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 12] with accuracy 80.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 13] with accuracy 83.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 15] with accuracy 82.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 16] with accuracy 82.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 17] with accuracy 83.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 18] with accuracy 82.19999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 19] with accuracy 83.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 20] with accuracy 83.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 21] with accuracy 82.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 22] with accuracy 83.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 23] with accuracy 82.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 24] with accuracy 84.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 25] with accuracy 83.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 26] with accuracy 82.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 27] with accuracy 82.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 28] with accuracy 81.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 29] with accuracy 82.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 30] with accuracy 82.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 31] with accuracy 82.19999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 32] with accuracy 81.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 36] with accuracy 81.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 37] with accuracy 83.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 38] with accuracy 82.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 39] with accuracy 84.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 40] with accuracy 83.6%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10] was best, with accuracy 85.39999999999999
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 1] with accuracy 81.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 3] with accuracy 80.80000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 5] with accuracy 80.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 6] with accuracy 81.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7] with accuracy 82.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 8] with accuracy 80.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 9] with accuracy 79.80000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 11] with accuracy 80.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 12] with accuracy 79.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 13] with accuracy 81.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 15] with accuracy 80.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 16] with accuracy 81.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 17] with accuracy 79.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 18] with accuracy 81.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 19] with accuracy 81.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 20] with accuracy 79.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 21] with accuracy 79.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 22] with accuracy 80.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 23] with accuracy 80.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 24] with accuracy 79.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 25] with accuracy 78.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 26] with accuracy 79.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 27] with accuracy 80.80000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 28] with accuracy 79.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 29] with accuracy 81.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 30] with accuracy 80.30000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 31] with accuracy 80.30000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 32] with accuracy 80.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 36] with accuracy 79.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 37] with accuracy 79.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 38] with accuracy 80.30000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 39] with accuracy 81.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 40] with accuracy 81.10000000000001%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7] was best, with accuracy 82.3
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 1] with accuracy 78.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 3] with accuracy 78.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 5] with accuracy 76.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 6] with accuracy 78.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 8] with accuracy 78.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 9] with accuracy 80.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 11] with accuracy 79.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 12] with accuracy 78.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 13] with accuracy 76.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 15] with accuracy 76.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 16] with accuracy 79.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 17] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 18] with accuracy 79.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 19] with accuracy 78.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 20] with accuracy 77.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 21] with accuracy 77.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 22] with accuracy 78.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 23] with accuracy 77.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 24] with accuracy 78.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 25] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 26] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 27] with accuracy 80.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 28] with accuracy 76.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 29] with accuracy 79.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 30] with accuracy 78.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 31] with accuracy 77.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 32] with accuracy 78.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 36] with accuracy 78.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 37] with accuracy 77.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 38] with accuracy 78.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39] with accuracy 80.60000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 40] with accuracy 79.3%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39] was best, with accuracy 80.60000000000001
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 1] with accuracy 76.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 3] with accuracy 76.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 5] with accuracy 75.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 6] with accuracy 77.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 8] with accuracy 77.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9] with accuracy 79.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 11] with accuracy 78.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 12] with accuracy 76.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 13] with accuracy 76.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 15] with accuracy 77.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 16] with accuracy 78.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 17] with accuracy 75.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 18] with accuracy 78.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 19] with accuracy 75.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 20] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 21] with accuracy 76.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 22] with accuracy 77.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 23] with accuracy 77.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 24] with accuracy 77.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 25] with accuracy 76.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 26] with accuracy 75.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 27] with accuracy 78.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 28] with accuracy 76.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 29] with accuracy 78.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 30] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 31] with accuracy 76.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 32] with accuracy 78.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 36] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 37] with accuracy 76.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 38] with accuracy 75.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 40] with accuracy 78.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9] was best, with accuracy 79.10000000000001
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 1] with accuracy 75.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 3] with accuracy 75.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 5] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 6] with accuracy 75.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 8] with accuracy 76.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 11] with accuracy 74.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 12] with accuracy 75.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 13] with accuracy 74.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 15] with accuracy 76.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 16] with accuracy 76.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 17] with accuracy 75.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 18] with accuracy 75.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 19] with accuracy 74.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 20] with accuracy 75.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 21] with accuracy 75.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 22] with accuracy 76.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 23] with accuracy 76.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 24] with accuracy 76.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 25] with accuracy 76.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 26] with accuracy 76.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27] with accuracy 77.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 28] with accuracy 76.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 29] with accuracy 76.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 30] with accuracy 75.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 31] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 32] with accuracy 75.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 36] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 37] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 38] with accuracy 74.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 40] with accuracy 76.2%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27] was best, with accuracy 77.3
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 1] with accuracy 75.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 3] with accuracy 75.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 5] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 6] with accuracy 75.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 8] with accuracy 75.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 11] with accuracy 74.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 12] with accuracy 73.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 13] with accuracy 76.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 15] with accuracy 73.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 16] with accuracy 74.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 17] with accuracy 73.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 18] with accuracy 75.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 19] with accuracy 76.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 20] with accuracy 75.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 21] with accuracy 73.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 22] with accuracy 75.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 23] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 24] with accuracy 74.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 25] with accuracy 74.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 26] with accuracy 74.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28] with accuracy 78.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 29] with accuracy 76.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 30] with accuracy 74.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 31] with accuracy 74.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 32] with accuracy 75.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 36] with accuracy 76.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 37] with accuracy 75.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 38] with accuracy 74.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 40] with accuracy 73.5%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28] was best, with accuracy 78.10000000000001
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 1] with accuracy 77.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 3] with accuracy 76.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 5] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 6] with accuracy 75.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 8] with accuracy 76.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 11] with accuracy 75.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 12] with accuracy 74.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 13] with accuracy 76.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 15] with accuracy 75.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 16] with accuracy 73.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 17] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 18] with accuracy 75.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 19] with accuracy 74.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 20] with accuracy 76.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 21] with accuracy 76.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 22] with accuracy 76.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 23] with accuracy 75.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 24] with accuracy 77.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 25] with accuracy 74.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 26] with accuracy 74.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 29] with accuracy 75.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 30] with accuracy 75.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 31] with accuracy 74.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 32] with accuracy 75.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36] with accuracy 77.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 37] with accuracy 77.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 38] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 40] with accuracy 74.9%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36] was best, with accuracy 77.8
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 1] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 3] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 5] with accuracy 73.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 6] with accuracy 74.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 8] with accuracy 74.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 11] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 12] with accuracy 75.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 13] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 15] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 16] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 17] with accuracy 73.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 18] with accuracy 74.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 19] with accuracy 75.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 20] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 21] with accuracy 74.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22] with accuracy 75.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 23] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 24] with accuracy 75.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 25] with accuracy 73.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 26] with accuracy 75.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 29] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 30] with accuracy 75.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 31] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 32] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 37] with accuracy 73.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 38] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 40] with accuracy 71.6%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22] was best, with accuracy 75.7
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 1] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 3] with accuracy 73.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 5] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 6] with accuracy 73.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8] with accuracy 75.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 11] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 12] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 13] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 15] with accuracy 73.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 16] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 17] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 18] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 19] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 20] with accuracy 73.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 21] with accuracy 74.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 23] with accuracy 70.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 24] with accuracy 73.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 25] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 26] with accuracy 73.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 29] with accuracy 73.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 30] with accuracy 74.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 31] with accuracy 73.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 32] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 37] with accuracy 74.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 38] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 40] with accuracy 72.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8] was best, with accuracy 75.7
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 1] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3] with accuracy 74.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 5] with accuracy 74.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 6] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 11] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 12] with accuracy 73.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 13] with accuracy 70.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 15] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 16] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 17] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 18] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 19] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 20] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 21] with accuracy 74.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 23] with accuracy 70.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 24] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 25] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 26] with accuracy 74.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 29] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 30] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 31] with accuracy 73.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 32] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 37] with accuracy 74.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 38] with accuracy 72.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 40] with accuracy 72.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3] was best, with accuracy 74.7
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 1] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 5] with accuracy 73.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 6] with accuracy 73.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 11] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12] with accuracy 74.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 13] with accuracy 70.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 15] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 16] with accuracy 73.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 17] with accuracy 73.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 18] with accuracy 71.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 19] with accuracy 72.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 20] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 21] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 23] with accuracy 70.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 24] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 25] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 26] with accuracy 74.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 29] with accuracy 73.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 30] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 31] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 32] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 37] with accuracy 73.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 38] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 40] with accuracy 70.3%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12] was best, with accuracy 74.5
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 1] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 5] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 6] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 11] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 13] with accuracy 69.19999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 15] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 16] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 17] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 18] with accuracy 69.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 19] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 20] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 21] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 23] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 25] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 26] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 29] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 30] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 31] with accuracy 70.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 32] with accuracy 70.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 37] with accuracy 73.9%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 38] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 40] with accuracy 71.89999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24] was best, with accuracy 73.9
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 1] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 5] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 6] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 11] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 13] with accuracy 69.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 15] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 16] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 17] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 18] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19] with accuracy 73.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 20] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 21] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 23] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 25] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 26] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 29] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 30] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 31] with accuracy 70.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 32] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 37] with accuracy 73.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 38] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 40] with accuracy 71.39999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19] was best, with accuracy 73.7
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 1] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 5] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 6] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 11] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 13] with accuracy 70.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 15] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 16] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 17] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 18] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 21] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 23] with accuracy 70.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 25] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 26] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 29] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 30] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 31] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 32] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 37] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 38] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 40] with accuracy 70.89999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20] was best, with accuracy 73.0
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 1] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 5] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 11] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 13] with accuracy 69.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 15] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 16] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 17] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 18] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 21] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 23] with accuracy 68.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 25] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 26] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 29] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 30] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 31] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 32] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 37] with accuracy 70.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 38] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 40] with accuracy 72.8%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6] was best, with accuracy 73.1
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 1] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5] with accuracy 73.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 11] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 13] with accuracy 70.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 15] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 16] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 17] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 18] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 21] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 23] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 25] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 26] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 29] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 30] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 31] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 32] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 37] with accuracy 70.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 38] with accuracy 73.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 40] with accuracy 71.89999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5] was best, with accuracy 73.4
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 1] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11] with accuracy 73.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 13] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 15] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 16] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 17] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 18] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 21] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 23] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 25] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 26] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 29] with accuracy 70.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 30] with accuracy 73.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 31] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 32] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 37] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 38] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 40] with accuracy 72.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11] was best, with accuracy 73.6
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 1] with accuracy 70.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 13] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 15] with accuracy 70.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 16] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 17] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 21] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 23] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 25] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 26] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 29] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 30] with accuracy 73.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 31] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 32] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 37] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 38] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 40] with accuracy 70.5%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18] was best, with accuracy 73.0
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 1] with accuracy 70.19999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 13] with accuracy 70.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 15] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 16] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 17] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 21] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 23] with accuracy 70.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 25] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 26] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 29] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30] with accuracy 73.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 31] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 32] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 37] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 38] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 40] with accuracy 71.2%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30] was best, with accuracy 73.3
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 1] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 13] with accuracy 70.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 16] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 17] with accuracy 70.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 21] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 23] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 25] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 26] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 29] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 31] with accuracy 72.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 32] with accuracy 70.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 37] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 38] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 40] with accuracy 71.1%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15] was best, with accuracy 72.8
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 1] with accuracy 70.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 13] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 16] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 17] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 21] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 23] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 25] with accuracy 72.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 26] with accuracy 72.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 29] with accuracy 70.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 31] with accuracy 71.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 32] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 37] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38] with accuracy 72.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 40] with accuracy 70.89999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38] was best, with accuracy 72.8
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 1] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 13] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 16] with accuracy 70.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 17] with accuracy 70.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 21] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 23] with accuracy 71.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 25] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 26] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 29] with accuracy 70.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 31] with accuracy 72.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 32] with accuracy 70.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 40] with accuracy 70.89999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37] was best, with accuracy 72.2
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 1] with accuracy 71.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 13] with accuracy 69.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 16] with accuracy 71.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 17] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 23] with accuracy 71.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 25] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 26] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 29] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 31] with accuracy 69.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 32] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 40] with accuracy 72.1%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21] was best, with accuracy 72.5
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 1] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 13] with accuracy 69.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 16] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 17] with accuracy 71.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 23] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 25] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26] with accuracy 72.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 29] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 31] with accuracy 70.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 32] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 40] with accuracy 71.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26] was best, with accuracy 72.5
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 1] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 13] with accuracy 69.69999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 16] with accuracy 71.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 17] with accuracy 71.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 23] with accuracy 71.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 25] with accuracy 72.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 29] with accuracy 71.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 31] with accuracy 71.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32] with accuracy 72.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 40] with accuracy 71.8%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32] was best, with accuracy 72.3
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 1] with accuracy 70.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 13] with accuracy 68.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 17] with accuracy 72.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 23] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 25] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 29] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 31] with accuracy 70.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 40] with accuracy 71.2%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16] was best, with accuracy 72.2
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 1] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 13] with accuracy 69.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17] with accuracy 71.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 23] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 25] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 29] with accuracy 69.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 31] with accuracy 70.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 40] with accuracy 70.6%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17] was best, with accuracy 71.5
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1] with accuracy 71.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 13] with accuracy 68.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 23] with accuracy 70.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 25] with accuracy 70.1%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 29] with accuracy 69.3%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 31] with accuracy 70.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 40] with accuracy 68.8%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1] was best, with accuracy 71.0
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 13] with accuracy 68.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23] with accuracy 70.5%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 25] with accuracy 69.39999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 29] with accuracy 69.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 31] with accuracy 69.6%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 40] with accuracy 68.7%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23] was best, with accuracy 70.5
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 13] with accuracy 68.8%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 25] with accuracy 68.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 29] with accuracy 68.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31] with accuracy 68.89999999999999%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 40] with accuracy 67.9%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31] was best, with accuracy 68.89999999999999
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 13] with accuracy 67.2%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25] with accuracy 68.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 29] with accuracy 67.4%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 40] with accuracy 67.4%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25] was best, with accuracy 68.10000000000001
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13] with accuracy 68.7%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 29] with accuracy 67.0%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 40] with accuracy 67.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13] was best, with accuracy 68.7
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13, 29] with accuracy 66.10000000000001%
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13, 40] with accuracy 67.4%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13, 40] was best, with accuracy 67.4
+
+		Features Considered : [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13, 40, 29] with accuracy 65.8%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [33, 35, 4, 34, 2, 14, 10, 7, 39, 9, 27, 28, 36, 22, 8, 3, 12, 24, 19, 20, 6, 5, 11, 18, 30, 15, 38, 37, 21, 26, 32, 16, 17, 1, 23, 31, 25, 13, 40, 29] was best, with accuracy 65.8
+
+Finished search!! The best feature subset is [33, 35], which has an accuracy of 97.2
+Time to finish: 6052.722789287567

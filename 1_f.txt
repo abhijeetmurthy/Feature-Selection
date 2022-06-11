@@ -1,0 +1,48 @@
+This dataset has 6 features, with 500 instances
+Running nearest neighbor with all 6 features, accuracy of 84.39999999999999%
+
+		Features Considered : [1] with accuracy 70.8%
+		Features Considered : [2] with accuracy 74.8%
+		Features Considered : [3] with accuracy 69.6%
+		Features Considered : [4] with accuracy 85.0%
+		Features Considered : [5] with accuracy 71.0%
+		Features Considered : [6] with accuracy 70.8%
+
+Feature set [4] was best, with accuracy 85.0
+
+		Features Considered : [4, 1] with accuracy 84.39999999999999%
+		Features Considered : [4, 2] with accuracy 97.0%
+		Features Considered : [4, 3] with accuracy 84.6%
+		Features Considered : [4, 5] with accuracy 86.8%
+		Features Considered : [4, 6] with accuracy 84.2%
+
+Feature set [4, 2] was best, with accuracy 97.0
+
+		Features Considered : [4, 2, 1] with accuracy 93.60000000000001%
+		Features Considered : [4, 2, 3] with accuracy 91.4%
+		Features Considered : [4, 2, 5] with accuracy 94.8%
+		Features Considered : [4, 2, 6] with accuracy 94.39999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [4, 2, 5] was best, with accuracy 94.8
+
+		Features Considered : [4, 2, 5, 1] with accuracy 89.0%
+		Features Considered : [4, 2, 5, 3] with accuracy 90.8%
+		Features Considered : [4, 2, 5, 6] with accuracy 89.60000000000001%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [4, 2, 5, 3] was best, with accuracy 90.8
+
+		Features Considered : [4, 2, 5, 3, 1] with accuracy 86.4%
+		Features Considered : [4, 2, 5, 3, 6] with accuracy 85.0%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [4, 2, 5, 3, 1] was best, with accuracy 86.4
+
+		Features Considered : [4, 2, 5, 3, 1, 6] with accuracy 84.39999999999999%
+(Warning, Accuracy has decreased! Continuing search in case of local maxima)
+
+Feature set [4, 2, 5, 3, 1, 6] was best, with accuracy 84.39999999999999
+
+Finished search!! The best feature subset is [4, 2], which has an accuracy of 97.0
+Time to finish: 14.739894151687622
